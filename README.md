@@ -1,4 +1,4 @@
 # Game
 Simple Game
 -----------
-Simple game using python.
+Simple snake game using python.
